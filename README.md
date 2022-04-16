@@ -1,24 +1,24 @@
-# weather-app
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<br/>  
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## **<div align="center">Weather App</div>**  
+  
 
-### Lints and fixes files
-```
-npm run lint
-```
+<div align="center">
+<img src="https://bpichery.github.io/Portfolio/assets/img/cloud-in-blue-sky.jpg" align="center" height="" width="450" />
+</div>  
+  
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+----  
+  
+
+- Utilisation de l'api libre d'openWeather  
+  
+
+- Hébergement sur Netlify -  
+  
+
+- Utilisation de Hooks et d'axios avec Vue  
+
+<br />
